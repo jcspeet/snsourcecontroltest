@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Test table</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Test table</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">17e6835bd12302104f34ba60d8b7c1f4</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-25 00:56:47</sys_created_on>
+        <sys_id>adee2fafc37712108d0a921ed4013163</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test table</sys_name>
+        <sys_package display_value="JS PDI Test App" source="x_1576034_js_pdi_t">f86e676fc37712108d0a921ed40131ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JS PDI Test App">f86e676fc37712108d0a921ed40131ed</sys_scope>
+        <sys_update_name>sys_wizard_answer_adee2fafc37712108d0a921ed4013163</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-25 00:56:47</sys_updated_on>
+        <table/>
+        <target_url>x_1576034_js_pdi_t_test_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

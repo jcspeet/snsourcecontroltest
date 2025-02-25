@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d9eeebafc37712108d0a921ed401317a" extends="task" label="Test table" max_length="40" name="x_1576034_js_pdi_t_test_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="test field" max_length="40" name="test_field" type="string"/>
+    </element>
+</database>
